@@ -4,7 +4,8 @@ Support multichannel spectra
 ________________
 Requirements
 ________________
-
-python 3.10.5
-numpy 1.22.3
-olefile 0.46
+```
+--> python 3.10.5
+--> numpy 1.22.3
+--> olefile 0.46
+```
